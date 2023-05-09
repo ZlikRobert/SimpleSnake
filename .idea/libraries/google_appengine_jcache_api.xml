@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="google.appengine.jcache.api" type="repository">
+    <properties maven-id="com.google.appengine:jcache-api:0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jcache-api-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="batik.swing" type="repository">
+    <properties maven-id="batik:batik-swing:1.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/batik-swing-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
